@@ -1,0 +1,4 @@
+✅ DemoQA homepage opened.
+✅ DemoQA Books page opened.
+📚 Total books found: 10
+✅ Scrolled to 'Understanding ECMAScript 6' book.

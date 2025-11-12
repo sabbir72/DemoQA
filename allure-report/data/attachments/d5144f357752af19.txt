@@ -1,0 +1,3 @@
+✅ DemoQA homepage opened.
+✅ DemoQA Books page opened.
+📚 Total books found: 10

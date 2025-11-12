@@ -1,0 +1,14 @@
+DemoQA homepage opened.
+Logged in as test72.
+📚 Total books found: 10
+Scrolled to 'Understanding ECMAScript 6' book.
+1. Git Pocket Guide
+2. Learning JavaScript Design Patterns
+3. Designing Evolvable Web APIs with ASP.NET
+4. Speaking JavaScript
+5. You Don't Know JS
+6. Programming JavaScript Applications
+7. Eloquent JavaScript, Second Edition
+8. Understanding ECMAScript 6
+9.  
+10.  
