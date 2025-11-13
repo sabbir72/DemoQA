@@ -1,0 +1,2 @@
+DemoQA homepage opened.
+Text verified using get_by_text.
